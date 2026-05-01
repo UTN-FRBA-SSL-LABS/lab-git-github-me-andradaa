@@ -695,7 +695,7 @@ RESPUESTA_P7=c
 - [x] Commit `wip: experimento roto` y su revert en el historial
 - [x] Conflicto de `esPar` resuelto en `main`
 - [x] Preguntas P1–P7 respondidas en este archivo
-- [ ] Todo pusheado a `main`
+- [x] Todo pusheado a `main`
 
 ### Verificación local
 
